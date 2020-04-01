@@ -3,7 +3,7 @@
 Kotlin programming introduction into Android development
 
 ## Things I learned doing this
-Kotlin
+Kotlin,
 Gradle
 AndroidX
 Animation Drawables
