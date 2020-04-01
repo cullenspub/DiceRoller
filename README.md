@@ -3,15 +3,15 @@
 Kotlin programming introduction into Android development
 
 ## Things I learned doing this
-Kotlin,
-Gradle, 
-AndroidX,
-AnimationDrawables, 
-AppCompat libraries, 
-Ressources, 
-Manifests, 
-LinearLayouts, 
-LateInit ,
+Kotlin, 
+Gradle,  
+AndroidX,  
+AnimationDrawables,   
+AppCompat libraries,  
+Ressources,  
+Manifests,  
+LinearLayouts,  
+LateInit ,  
 CoRoutines
 
 ### Prerequisites
